@@ -25,3 +25,8 @@ Collect bouldering route information from mountain project website
 7) post process data, count qualified routes by area (post_process.py)
 
 9) save route information in excel sheet (write_to_file.py)
+
+# Example Excel File:  'demo.xlsx'
+1) the generated demo excel sheet includes an example export excel file collecting bouldering problem in washington state grading between v5 - v8
+
+3) please be noted that any v4-v5 or v8-v9 routes are also considered within the given range v5 - v8
