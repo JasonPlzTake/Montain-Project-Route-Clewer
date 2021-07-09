@@ -1,7 +1,8 @@
 # MontainProjectRouteClewer
-Collect bouldering route information from mountain project website
-
-# this function is to collect route information from https://www.mountainproject.com/
+# Porject Descripton: Collect bouldering route information from mountain project website
+#
+# v_0_0_1
+# this project revision is to collect route information from https://www.mountainproject.com/
 # the workflow is as below:
 # 1) generate search url, based on the searching criteria specified (get_search_url.py)
 # 2) collect route links by using mountain project search engine (get_route_links.py)
