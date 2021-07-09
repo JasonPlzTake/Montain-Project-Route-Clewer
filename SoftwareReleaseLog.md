@@ -10,3 +10,4 @@ v_0_0_1
 # 3) visit each route link, save route info into route_info_list (get_route_info.py)
 # 4) post process data, count qualified routes by area (post_process.py)
 # 5) save route information in excel sheet (write_to_file.py)
+# notes: it currently only supports setting the grading inputs in the main() function instead of using an UI.
