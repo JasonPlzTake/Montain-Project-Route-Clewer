@@ -1,5 +1,5 @@
 # MontainProjectRouteClewer
-# Collect bouldering route information from mountain project website
+Collect bouldering route information from mountain project website
 
 1) This clewer is to collect route information from https://www.mountainproject.com/.
 
@@ -13,9 +13,14 @@
     b. second tab including number of qualified routes in each the finest crag
     
     
-The release v0.0.1 includes below workflow:
+# The release v0.0.1 includes below workflow:
+
 1) generate search url, based on the searching criteria specified (get_search_url.py)
-2) collect route links by using mountain project search engine (get_route_links.py)
-3) visit each route link, save route info into route_info_list (get_route_info.py)
-4) post process data, count qualified routes by area (post_process.py)
-5) save route information in excel sheet (write_to_file.py)
+
+3) collect route links by using mountain project search engine (get_route_links.py)
+
+5) visit each route link, save route info into route_info_list (get_route_info.py)
+
+7) post process data, count qualified routes by area (post_process.py)
+
+9) save route information in excel sheet (write_to_file.py)
