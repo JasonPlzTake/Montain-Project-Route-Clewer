@@ -1,8 +1,9 @@
-# MontainProjectRouteClewer
-# Porject Descripton: Collect bouldering route information from mountain project website
-#
-# v_0_0_1
+v_0_0_1
 # this project revision is to collect route information from https://www.mountainproject.com/
+# current feature inlcudes collect bouldering route information in Washington state based on the grading range provided. 
+# the output work product is an excel file which includes the main page containing all route infornation, 
+# and second tab including number of qualified routes in each the finest crag
+#
 # the workflow is as below:
 # 1) generate search url, based on the searching criteria specified (get_search_url.py)
 # 2) collect route links by using mountain project search engine (get_route_links.py)
