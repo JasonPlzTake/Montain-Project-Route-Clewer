@@ -1,4 +1,4 @@
-# Rlease Notes:
+# Rlease Logs:
 # v_0_0_1
 this project revision is to collect route information from https://www.mountainproject.com/
 current feature inlcudes collect bouldering route information in Washington state based on the grading range provided. 
